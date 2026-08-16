@@ -1,0 +1,9 @@
+{
+  "name": "DAT2 Verbale",
+  "short_name": "DAT2 Verbale",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f5f7",
+  "theme_color": "#111827",
+  "icons": []
+}
